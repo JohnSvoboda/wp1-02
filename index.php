@@ -11,7 +11,7 @@
   $soucet=$a+$b ;
 
   $soucin=$a*$b ;
-
+gffds
   $podil=$a-$b ;
 
   $rozdil=$a/$b ;
